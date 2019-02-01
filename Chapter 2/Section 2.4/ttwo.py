@@ -2,7 +2,6 @@
 ID: hsfncd31
 LANG: PYTHON3
 TASK: ttwo
-Time Limit Exceeded at Case#7
 """
 import os
 import typing
